@@ -1,0 +1,8 @@
+What is OOP - (standard) structure or way of writing programming using class and object. 
+
+What is a class   - bluprint or template contain with attributes/properties and method. 
+
+Why we need class - let's think you wanna store data of students. if we get this example there are different data type will involve like stId (int) stName (String) and marks (float) etc.., here you can not store different data type 
+                    within a one place using common data type like int, String and float right. so, as a solution we get classes to solve this issue. we can store different data type in a class. 
+
+
