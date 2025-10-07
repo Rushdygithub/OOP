@@ -7,6 +7,15 @@ Why we need class - let's think you wanna store data of students. if we get this
 
 Student student = object define (data type + instance variable) - this will store in the stack and return null - this will allocate in compile time 
 student = new Student() - run time 
+
 What new keyword does - this will allocate memory in the run time and return a reference to the student variable
+What this keyword does - it will take the reference variable name of that specific obj (not the class variable name) - way to access the reference variable (internally) - if you do not put the this
+                        keyword that will confused are you talking about the argument or class variable (this keyword replace with reference variable)
+how to identify constructor - check the class of the obj
 
 Student() - this is the constructor (if you do have a this method in your class this is the bydefault constructor) 
+
+Important NOTE - we can also pass a obj to a contructor as a argm and you can call a contructor to another constructor with this keyword (this keyword)
+                 1. to deferencited the argument 
+                 2. to reference the object
+                 3. to call a anther constructor 
