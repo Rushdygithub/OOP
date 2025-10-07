@@ -19,3 +19,15 @@ Important NOTE - we can also pass a obj to a contructor as a argm and you can ca
                  1. to deferencited the argument 
                  2. to reference the object
                  3. to call a anther constructor 
+
+Student student1 = new Student();
+Student student2 = student1; acctually not allocate the memory address it says to point the student1 reference varible object to the student2 reference variable. 
+
+Practice - 
+            Variable two swaping 
+            Create a obj and assign to a another obj = Student student = new Student(); - Student student1 = student; (if you change student1 obj it will reflect to the student obj as well)
+            Swaping via function (two variables and passing a object) 
+            function(int a) { - this is the new variable and function(value) - not a variable = variable a atomatiaclly assign the value after accept the value
+
+            }
+      
