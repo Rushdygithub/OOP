@@ -15,7 +15,7 @@ how to identify constructor - check the class of the obj
 
 Student() - this is the constructor (if you do have a this method in your class this is the bydefault constructor) 
 
-Important NOTE - we can also pass a obj to a contructor as a argm and you can call a contructor to another constructor with this keyword (this keyword)
+Important NOTE - we can also pass a obj to a contructor as a argm and you can call a contructor to another constructor with this keyword (this keyword )
                  1. to deferencited the argument 
                  2. to reference the object
                  3. to call a anther constructor 
