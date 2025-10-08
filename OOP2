@@ -1,2 +1,6 @@
 What is package - In Java, a package is a mechanism for organizing related classes. 
 Instance variable and local variable - outside from method (java class), inside a method 
+
+Static keyword - if class propertie or method does not rely on a object we can define as a static keyword. this is common to all class obj. 
+                 if your propertie or method static access with their class name (do not access via obj - can but not standard)
+                 when you change something in a variable it will reflect to all objetcs 
