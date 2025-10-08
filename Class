@@ -30,4 +30,8 @@ Practice -
             function(int a) { - this is the new variable and function(value) - not a variable = variable a atomatiaclly assign the value after accept the value
 
             }
-      
+Final keyword - you can not change it is like a constant variable. this keyword can be apply for variable, class 
+              NOTE:: Final variable has to be initialized in the compile time (why becuese you can not change)
+                     and you can not reassinged the object to another one (when you have final keyword to a obj) - when a data type is non primitive you can not reassigned it
+
+Grabadge collection - we can not remove unreference obj by manually. but we can give some instruction when garbadge collection hit (finallized method)
