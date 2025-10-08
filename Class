@@ -13,6 +13,9 @@ What this keyword does - it will take the reference variable name of that specif
                         keyword that will confused are you talking about the argument or class variable (this keyword replace with reference variable)
 how to identify constructor - check the class of the obj
 
+Mistake - 
+Java constructor - Constructors do not have a return type. 
+
 Student() - this is the constructor (if you do have a this method in your class this is the bydefault constructor) 
 
 Important NOTE - we can also pass a obj to a contructor as a argm and you can call a contructor to another constructor with this keyword (this keyword )
@@ -35,3 +38,5 @@ Final keyword - you can not change it is like a constant variable. this keyword 
                      and you can not reassinged the object to another one (when you have final keyword to a obj) - when a data type is non primitive you can not reassigned it
 
 Grabadge collection - we can not remove unreference obj by manually. but we can give some instruction when garbadge collection hit (finallized method)
+
+
