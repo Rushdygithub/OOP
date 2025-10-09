@@ -5,3 +5,4 @@ Static keyword - if class propertie or method does not rely on a object we can d
                  if your propertie or method static access with their class name (do not access via obj - can but not standard)
                  when you change something in a variable it will reflect to all objetcs 
                  and we can not use reserved keywords like this keyword in a static method.
+                 to initialized static variable you can do that via static block and this will excute only one time (when class is lodded)
