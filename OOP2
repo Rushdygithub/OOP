@@ -2,6 +2,7 @@ What is package - In Java, a package is a mechanism for organizing related class
 Instance variable and local variable - outside from method (java class), inside a method 
 
 Static keyword - if class propertie or method does not rely on a object we can define as a static keyword. this is common to all class obj. 
+                 A static method belongs to the class itself,
                  if your propertie or method static access with their class name (do not access via obj - can but not standard)
                  when you change something in a variable it will reflect to all objetcs 
                  and we can not use reserved keywords like this keyword in a static method.
@@ -9,3 +10,4 @@ Static keyword - if class propertie or method does not rely on a object we can d
                  -something it is not call. - (when the first obj create) - it is a static block that you can initialized a static variable without using a constrcutor. (NOTE:: you can also
                   do that via constrcutor)
                  -Important NOTE:: even you can call static variable via this keyword use the class name to access the static variable (when you call static variable inside a non-static method)
+                
