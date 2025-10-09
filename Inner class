@@ -1,1 +1,3 @@
-Inner class - 
+**More important 
+Inner class - it is a special class that depend on a super class. 
+              Inner class can be static but the super class it should not be static.
