@@ -1,0 +1,4 @@
+Inheritance - process of inherit base class or super class propertie to child class 
+Extend reserved keyword - helps to inherit base classs to child class
+Child class - it will have some propertie of base class and it will have some own additianal propertie.
+Super reserved keyword - helps to call the parent class constructor 
