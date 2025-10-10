@@ -40,4 +40,4 @@ Final keyword - you can not change it is like a constant variable. this keyword 
 
 Grabadge collection - we can not remove unreference obj by manually. but we can give some instruction when garbadge collection hit (finallized method)
 
-
+Complie time - memory allocate compile time
