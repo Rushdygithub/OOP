@@ -4,3 +4,11 @@ Child class - it will have some propertie of base class and it will have some ow
 Super reserved keyword - 1. helps to call the parent class constructor 
                          2. helps to access parent class attributes (you can do with this keyword but what if your super class and child class attributes with same variable name so use the 
                             super keyword)
+
+
+
+
+
+
+
+inheritance - we can inherit class bottom to top and we can not connect last class with another class (do it)
