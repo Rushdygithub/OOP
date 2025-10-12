@@ -12,3 +12,7 @@ Super reserved keyword - 1. helps to call the parent class constructor
 
 
 inheritance - we can inherit class bottom to top and we can not connect last class with another class (do it)
+
+So it calls the overridden version from the Paypal class instead of the one in Payment.
+Compile time: Java checks that the method exists in the declared type.
+Runtime: Java decides which implementation to run based on the real object in memory.
