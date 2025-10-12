@@ -17,4 +17,6 @@ So it calls the overridden version from the Paypal class instead of the one in P
 Compile time: Java checks that the method exists in the declared type.
 Runtime: Java decides which implementation to run based on the real object in memory.
 
-when you want to access super class attributes you can also use this keywork but what is you have attributes same as super class in the sub class. (so use the super keyword to access)
+Important - 
+     1. When you want to access super class attributes you can also use this keywork but what is you have attributes same as super class in the sub class. (so use the super keyword to access)
+     2. why we do not call super class function under the sub class in the constructor. why becouse, to initialize subclass it should know what are the super class attributes contain.       
