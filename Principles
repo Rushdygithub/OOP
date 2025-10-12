@@ -20,3 +20,4 @@ Runtime: Java decides which implementation to run based on the real object in me
 Important - 
      1. When you want to access super class attributes you can also use this keywork but what is you have attributes same as super class in the sub class. (so use the super keyword to access)
      2. why we do not call super class function under the sub class in the constructor. why becouse, to initialize subclass it should know what are the super class attributes contain.       
+     3. OOP 45.01 - watch kunal oop video (how upcasting work when we pass as object)
