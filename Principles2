@@ -7,4 +7,6 @@ compile time look which one is do i need to call (jvm)
 this is not for onlt constructor work for normal method
 
 access level - depend on the what type that we define 
- 
+
+reference type - detarmine which one access
+object of the reference type - detarmine which one run
