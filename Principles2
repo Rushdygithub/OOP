@@ -1,0 +1,10 @@
+Polymorphism - it occurs during inheritance
+
+Type of Polymorphism
+Compile time or static - act of same thing in muliple ways. this can be achived  via method oveloading
+method oveloading -  when class has multiple method with same name but the argument and data type can be different (multiple constructor)
+compile time look which one is do i need to call (jvm)
+this is not for onlt constructor work for normal method
+
+access level - depend on the what type that we define 
+ 
