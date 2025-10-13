@@ -20,7 +20,11 @@ one class extend another class
 2. multi level inheritance 
 box, box-weight and box-price - first extend class is a subclass of the box and the child is can be a super class of the box-price. (you can access bottom to top can not access this first super 
 class from first class) when you inherit you can access all the class attribute above class
-
+3. Multiple inheritance
+one class extend more than one super class - can not do that why becouse what if both parent class exist with one same attributes. - not supported (we can do that using interface)
+4. Hirachical inheritance 
+one class act as super class for two or more class (can access class attribute 2 from 3 no you can not only allowed to access the corresponding base class)
+5. Hybrid inheritance (take a look)
 
 So it calls the overridden version from the Paypal class instead of the one in Payment.
 Compile time: Java checks that the method exists in the declared type.
