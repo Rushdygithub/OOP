@@ -13,6 +13,15 @@ Super reserved keyword - 1. helps to call the parent class constructor
 
 inheritance - we can inherit class bottom to top and we can not connect last class with another class (do it)
 
+type of inheritance 
+
+1. single inheritance 
+one class extend another class
+2. multi level inheritance 
+box, box-weight and box-price - first extend class is a subclass of the box and the child is can be a super class of the box-price. (you can access bottom to top can not access this first super 
+class from first class) when you inherit you can access all the class attribute above class
+
+
 So it calls the overridden version from the Paypal class instead of the one in Payment.
 Compile time: Java checks that the method exists in the declared type.
 Runtime: Java decides which implementation to run based on the real object in memory.
