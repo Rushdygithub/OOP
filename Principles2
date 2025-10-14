@@ -11,4 +11,6 @@ access level - depend on the what type that we define
 reference type - detarmine which one access
 object of the reference type - detarmine which one run
 
-NOTE:: You can not override a method with a final reserved keyword
+NOTE:: 1. You can not override a method with a final reserved keyword
+       2. We can not override method if it is a static method (why because it is not depending on the object always run the function - even it is a inheritence) 
+       IMPORTANT- overriden depends on object. static not depend on object hense you can not override it. (static say i do not really care about the object)
