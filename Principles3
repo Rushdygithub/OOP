@@ -1,5 +1,6 @@
 Encapsulation -
    Implementaion level
+   Encapsulation is about data hiding — you keep the internal details of how an object works private and expose only what’s necessary through public methods.
 
 Getter function - why we can can access data even it is private (why becouse we are not access the data directly we are accessing via method) 
 
