@@ -35,4 +35,5 @@ Important -
      2. why we do not call super class function under the sub class in the constructor. why becouse, to initialize subclass it should know what are the super class attributes contain.       
      3. OOP 45.01 - watch kunal oop video (how upcasting work when we pass as object)
 
-NOTE:: whnen you have a abstract class with final reserved keyword you can not use as a parent class (basically you can not use extend that class from another class) 
+NOTE:: 1. Wnen you have a abstract class with final reserved keyword you can not use as a parent class (basically you can not use extend that class from another class) 
+       2. Whenever class is a final class method all are consider as a final method. (implisityli) 
