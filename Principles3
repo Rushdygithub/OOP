@@ -1,6 +1,9 @@
 Encapsulation -
+   Implementaion level
 
+Getter function - why we can can access data even it is private (why becouse we are not access the data directly we are accessing via method) 
 
 Abstraction - 
    Proccess of hidding unnecessary details and showing the only necessary information
+   Design level
    Imortant - ArrayList, List - abstract data type
