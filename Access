@@ -1,0 +1,5 @@
+Private - you can access within the class (we can access it via getter but actually we are not access it directly)
+Public - can access anyware (not recommended)
+Default - no modifier (you can not access in dif package)
+Protected - 
+
