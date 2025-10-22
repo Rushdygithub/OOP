@@ -3,3 +3,6 @@ Public - can access anyware (not recommended)
 Default - no modifier (you can not access in dif package)
 Protected - 
 
+NOTE:: We can also extend a class from a different package 
+
+IMPORTANT - class hyraci goes up to down which means super class does not know about thier sub class.  
